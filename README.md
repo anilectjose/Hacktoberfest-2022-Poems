@@ -2,7 +2,7 @@
 You can contribute to this repo by adding poems. Add exciting poems or your own poems 
 
 # Hacktoberfest 2021
-![img](https://hacktoberfest.digitalocean.com/share-card.png)
+![img](https://os-ucsd.ucsd.edu/static/media/hacktoberfest_logo.c8afbf5d.png)
 
 A repository where you can upload any poems with poetry name in a folder of it's language. Feel free to add your poems here :)
 
